@@ -1,7 +1,7 @@
 SF Food Trucks
 ===
 
-Download source code from: https://github.com/tel4vn/docker_basic/tree/master/compose-assignment-1
+Download source code from:https://github.com/nhutminhho/docker_basic/tree/main/compose-assignment-1
 
 1. Build the flask app base on Dockerfile
 2. Create the app with this image above:
